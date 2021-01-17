@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tiffanyharris14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mylinkname" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18638466/laharris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mystackid" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13584807/laharris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mystackid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and tools I've tinkered with professionally:</h3>
